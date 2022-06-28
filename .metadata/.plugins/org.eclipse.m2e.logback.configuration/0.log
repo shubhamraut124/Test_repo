@@ -77,3 +77,21 @@ java.nio.file.AccessDeniedException: C:\Program Files\Git\etc\.probe-4efedfb1-d1
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660) ~[org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar:na]
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597) ~[org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar:na]
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1468) ~[org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar:na]
+2022-06-28 11:35:50,965 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-06-28 11:39:21,150 [Worker-18: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DurgaSoft_prac:DurgaSoft_prac:0.0.1-SNAPSHOT @ C:\Users\shubham\git\repository\DurgaSoft_prac\pom.xml.
+2022-06-28 11:39:48,843 [Worker-18: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DurgaSoft_prac/src
+2022-06-28 11:39:48,844 [Worker-18: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DurgaSoft_prac/src/test/java because it overlaps with /DurgaSoft_prac/src
+2022-06-28 11:39:49,440 [Worker-18: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 96 sec
+2022-06-28 11:39:56,729 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-28 11:39:56,733 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shubham\git\repository\DurgaSoft_prac\src\main\resources
+2022-06-28 11:39:56,736 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-28 11:39:56,737 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shubham\git\repository\DurgaSoft_prac\src\test\resources
+2022-06-28 11:40:23,582 [Worker-16: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: zebraDomain:zebraDomain:0.0.1-SNAPSHOT @ C:\Users\shubham\git\repository\zebraDomain\pom.xml.
+2022-06-28 11:41:00,642 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-28 11:41:00,643 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shubham\git\repository\zebraDomain\src\main\resources
+2022-06-28 11:41:00,644 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-28 11:41:00,645 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shubham\git\repository\zebraDomain\src\test\resources
+2022-06-28 11:41:03,545 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-28 11:41:03,546 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shubham\git\repository\zebraDomain\src\main\resources
+2022-06-28 11:41:03,547 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-28 11:41:03,548 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shubham\git\repository\zebraDomain\src\test\resources
